@@ -21,3 +21,7 @@ app.post('/weather',(req,res) => {
 app.listen(3000,() =>{
     console.log("server started")
 })
+
+
+
+// have  to bill acc Google_api
